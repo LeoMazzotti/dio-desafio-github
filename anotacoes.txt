@@ -1,0 +1,19 @@
+link para donwload do  git: https://git-scm.com/downloads
+
+Alguns comandos:
+Comando básicos:
+Navegação entre pastas -> cd 
+Retroceder a pasta anterior -> cd ..
+Lista de arquivos do local -> ls
+Criação de pasta -> mkdir nomedapasta
+Remoção da pasta -> rm -rf
+
+Inicializando repositório -> git init
+
+Inserindo arquivo(s) -> git add *
+
+Enviando arquivo para repositório local -> git commit -m "Inserir o nome da modificação ou inclusão"
+
+ 
+
+
